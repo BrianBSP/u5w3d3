@@ -11,6 +11,7 @@ public class AdapterRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         System.out.println("*\n**\n*** ADAPTER");
+        System.out.println("**\n*");
         Faker faker = new Faker(Locale.ITALY);
         Info info = new Info(faker.dragonBall().character(), faker.name().lastName(), faker.date().birthday());
         Adapter adapter = new Adapter(info);
