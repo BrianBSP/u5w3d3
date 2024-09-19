@@ -1,4 +1,4 @@
-package brianpelinku.u5w3d3.eserczio1;
+package brianpelinku.u5w3d3.esercizio1;
 
 import com.github.javafaker.Faker;
 import org.springframework.boot.CommandLineRunner;

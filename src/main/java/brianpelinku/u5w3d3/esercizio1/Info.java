@@ -1,4 +1,4 @@
-package brianpelinku.u5w3d3.eserczio1;
+package brianpelinku.u5w3d3.esercizio1;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
